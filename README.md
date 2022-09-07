@@ -1,1 +1,4 @@
-# smart_cashier
+# Smart Cashier
+In this project we are taking advantage of FOMO (Faster Objects, More Objects) algorithm that’s really fast and efficient in object detection. The algorithm is suitable for recognizing the different types of objects that’s placed on the cashier table without the use of barcode and is able to output the total price of items. 96x96 pixel and grayscale color depth provides enough data to make this project work. The model is exported into a Python program which is deployed to a Raspberry Pi, so it can be run locally. By running the machine learning model on the edge, this device will use less energy, less human labour, and cut down hardware cost overall. This concept can be further developed with more data variation, camera, and different cashier environment and lighting conditions to improve its accuracy in the real-world application.
+
+[link to project](https://studio.edgeimpulse.com/studio/101832/)
